@@ -76,3 +76,8 @@ streamlit run app.py
 ---
 https://lexnova-legal-assistant-aczjcyfmr9pj4c2givhyzx.streamlit.app/
 
+##  Demo
+
+Check out the [explanation walkthrough of LexNova](https://github.com/NACHAMMAI-SN/LexNova-legal-assistant/releases) to see the system in action.
+
+
