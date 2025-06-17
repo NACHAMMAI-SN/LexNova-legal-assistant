@@ -74,4 +74,5 @@ streamlit run app.py
 5. Use the **download buttons** to export any of the results as JSON files.
 
 ---
+https://lexnova-legal-assistant-aczjcyfmr9pj4c2givhyzx.streamlit.app/
 
